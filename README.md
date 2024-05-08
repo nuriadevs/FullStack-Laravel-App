@@ -1,4 +1,4 @@
-![beautyzencorto](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/3ad11b42-fe18-4efc-bda0-768e7c6ad98a)
+![logo](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/219dbe98-b0ce-430c-abd7-d93297aeffb5)
 # BeautyZen App
 
 **BeautyZen** es una aplicación web que ha sido desarrollada para ofrecer operaciones CRUD, un sistema de autenticación y registro de clientes, administradores y empleados de un centro de estética. Es un proyecto educativo de prueba, ciertos apartados no están terminados ni configurados. 
