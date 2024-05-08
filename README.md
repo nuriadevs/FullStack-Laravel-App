@@ -1,4 +1,4 @@
-![logo](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/219dbe98-b0ce-430c-abd7-d93297aeffb5){width=100px}
+<img src="https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/219dbe98-b0ce-430c-abd7-d93297aeffb5" width="100" height="150" alt="logo app">
 
 # BeautyZen App
 
