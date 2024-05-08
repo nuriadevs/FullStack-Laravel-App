@@ -33,6 +33,9 @@
 
 9. Accede a la aplicación en tu navegador web en [http://localhost:8000](http://localhost:8000).
 
+## Vistas
+![Captura de pantalla 2024-05-08 195229](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/dbdc3b63-004b-4f00-8fdf-b556e4e54d6d)
+
 ## Login
 Los siguientes perfiles te permitirán acceder a la aplicación según el rol que elijas. Los empleados pueden ser médico, estético,  auxiliar o recepcionista.
 
