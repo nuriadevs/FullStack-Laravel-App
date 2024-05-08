@@ -1,6 +1,7 @@
+![beautyzencorto](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/3ad11b42-fe18-4efc-bda0-768e7c6ad98a)
 # BeautyZen App
 
-**BeautyZen**  es una aplicación  web que ha sido desarrollada para ofrecer operaciones CRUD, un sistema de autenticación y registro de clientes, administradores y empleados de un centro de estética. Es un proyecto educativo, ciertos apartados no están terminados. 
+**BeautyZen** es una aplicación web que ha sido desarrollada para ofrecer operaciones CRUD, un sistema de autenticación y registro de clientes, administradores y empleados de un centro de estética. Es un proyecto educativo de prueba, ciertos apartados no están terminados ni configurados. 
 
 ## Tecnologías🛠️
 * [PHP 8.2.4](https://www.php.net/releases/8_2_4.php)
@@ -34,7 +35,15 @@
 9. Accede a la aplicación en tu navegador web en [http://localhost:8000](http://localhost:8000).
 
 ## Vistas
+### Laptop
 ![Captura de pantalla 2024-05-08 195229](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/dbdc3b63-004b-4f00-8fdf-b556e4e54d6d)
+
+###Tablet
+![Captura de pantalla 2024-05-08 195358](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/bad54881-d049-439c-887c-8e17b288a528)
+
+### Móvil
+![Captura de pantalla 2024-05-08 195520](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/229729fa-a81f-429b-966a-dd798cb1b32e)
+
 
 ## Login
 Los siguientes perfiles te permitirán acceder a la aplicación según el rol que elijas. Los empleados pueden ser médico, estético,  auxiliar o recepcionista.
