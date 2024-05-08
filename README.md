@@ -35,12 +35,15 @@
 
 ## Login
 Los siguientes perfiles te permitirán acceder a la aplicación según el rol que elijas. Los empleados pueden ser médico, estético,  auxiliar o recepcionista.
+
 **Administrador**:
 correo: nuria@hotmail.com
 contraseña: contrasenia1234 
+
 **Empleado**: 
 correo: ana@gmail.com
 contraseña: contrasenia1234 
+
 **Cliente**:
 correo: maria@gmail.com
 contraseña: contrasenia1234 
