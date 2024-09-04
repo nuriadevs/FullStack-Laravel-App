@@ -1,4 +1,4 @@
-<img src="https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/219dbe98-b0ce-430c-abd7-d93297aeffb5" width="350" height="350" alt="logo app">
+![logo](docs/logo.png)
 
 # BeautyZen App
 
@@ -37,13 +37,13 @@
 
 ## Vistas
 ### Laptop
-![Captura de pantalla 2024-05-08 195229](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/dbdc3b63-004b-4f00-8fdf-b556e4e54d6d)
+![laptop](docs/laptop.png)
 
 ### Tablet
-![Captura de pantalla 2024-05-08 195358](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/bad54881-d049-439c-887c-8e17b288a528)
+![tablet](docs/tablet.png)
 
 ### Móvil
-![Captura de pantalla 2024-05-08 195520](https://github.com/nuriadevs/FullStack-Laravel-App/assets/78706031/229729fa-a81f-429b-966a-dd798cb1b32e)
+![movil](docs/mobile.png)
 
 
 ## Login
